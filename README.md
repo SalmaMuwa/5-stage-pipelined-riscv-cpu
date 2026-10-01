@@ -1,5 +1,5 @@
 # riscv-cpu-core
-# RISC-V Processor Architectures & Assembler Toolchain
+# 5-Stage Pipelined RISC-V CPU Core and Assembler
 
 A comprehensive RISC-V processor implementation written in Verilog, progressing from a single-cycle baseline to a fully pipelined architecture with hazard resolution, accompanied by a custom C++ assembler toolchain. 
 
