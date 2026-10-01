@@ -3,9 +3,8 @@
 
 A comprehensive RISC-V processor implementation written in Verilog, progressing from a single-cycle baseline to a fully pipelined architecture with hazard resolution, accompanied by a custom C++ assembler toolchain. 
 
-👥 The Team
+### 👥 The Team
 This core was collaboratively built as a single engineering unit for the ARC 2 course at PSUT by:
-
 * Salma Muwahed
 * Tania Fostuq
 * Omar Osama
